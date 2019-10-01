@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BraToni/portfolio/static/css/main.b100e6da.chunk.css",
+    "main.js": "/BraToni/portfolio/static/js/main.e8b47ddf.chunk.js",
+    "main.js.map": "/BraToni/portfolio/static/js/main.e8b47ddf.chunk.js.map",
+    "runtime-main.js": "/BraToni/portfolio/static/js/runtime-main.de75790f.js",
+    "runtime-main.js.map": "/BraToni/portfolio/static/js/runtime-main.de75790f.js.map",
+    "static/js/2.b7548ec2.chunk.js": "/BraToni/portfolio/static/js/2.b7548ec2.chunk.js",
+    "static/js/2.b7548ec2.chunk.js.map": "/BraToni/portfolio/static/js/2.b7548ec2.chunk.js.map",
+    "index.html": "/BraToni/portfolio/index.html",
+    "precache-manifest.6fa8ce0bb392989be594922ebaddca12.js": "/BraToni/portfolio/precache-manifest.6fa8ce0bb392989be594922ebaddca12.js",
+    "service-worker.js": "/BraToni/portfolio/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/BraToni/portfolio/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/BraToni/portfolio/static/media/logo.25bf045c.svg"
+  }
+}
